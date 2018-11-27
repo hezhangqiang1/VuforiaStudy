@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\hello何同学\.gradle\caches\transforms-1\files-1.1\VuforiaWrapper.aar\2d37d4c999f972a4467d71678c4bdeb0\jars\libs\Vuforia.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="5d20fc1ee41915234d6e74afcaec9ba74ed63923">
+        <dex dex="G:\Project\VuforiaStudy\Temp\gradleOut\build\intermediates\transforms\preDex\release\3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\hello何同学\.gradle\caches\transforms-1\files-1.1\VuforiaWrapper.aar\2d37d4c999f972a4467d71678c4bdeb0\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d46bca2836cb936675a51f8d54e3402015d835cb">
+        <dex dex="G:\Project\VuforiaStudy\Temp\gradleOut\build\intermediates\transforms\preDex\release\2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\Project\VuforiaStudy\Temp\gradleOut\libs\unity-classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="cbcda9c3a973bf6fa88272a5a8459e88bfbd0bd6">
+        <dex dex="G:\Project\VuforiaStudy\Temp\gradleOut\build\intermediates\transforms\preDex\release\1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\hello何同学\.gradle\caches\transforms-1\files-1.1\VuforiaWrapper.aar\2d37d4c999f972a4467d71678c4bdeb0\jars\libs\VuforiaUnityPlayer.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="31de12dfd4ff409d57dd52142cd5ebe1c1eee803">
+        <dex dex="G:\Project\VuforiaStudy\Temp\gradleOut\build\intermediates\transforms\preDex\release\4.jar" />
+    </item>
+
+</items>
