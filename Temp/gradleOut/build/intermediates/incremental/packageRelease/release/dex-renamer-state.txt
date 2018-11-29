@@ -1,4 +1,0 @@
-#Mon Nov 26 21:31:55 GMT+08:00 2018
-base.0=G\:\\Project\\VuforiaStudy\\Temp\\gradleOut\\build\\intermediates\\transforms\\dex\\release\\0
-path.0=classes.dex
-renamed.0=classes.dex
