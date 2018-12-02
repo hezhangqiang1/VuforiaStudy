@@ -2,7 +2,7 @@ Android
 PlayerPath?
 C:/Users/hello何同学/Desktop/VuforiaTest.apk
 SceneListBegin?
-Assets/Scenes/Secec3.unity
+Assets/Scenes/Scene4.unity
 SceneListEnd?
 c422dd62785a6d0afa870fbd111886ce Unity.TextMeshPro.dll:TMPro.TMP_SelectionCaret
 7b803eb2910e9b4cd5e521ae07b9f7d6 Unity.TextMeshPro.dll:TMPro.TMP_Dropdown
@@ -311,3 +311,5 @@ c1087bf328bbb39eba5a09f26c3b6368 Vuforia.UnityExtensions.dll:Vuforia.MultiTarget
 c8a41ce4eea7677f6dd2aa0e422a2f04 Vuforia.UnityExtensions.dll:Vuforia.VuMarkBehaviour
 c31ff9acb65f7a15b5c6fd77c3314d83 Vuforia.UnityExtensions.dll:Vuforia.WireframeBehaviour
 486cd95c82d8305219c352c06b776e1f Vuforia.UnityExtensions.dll:Vuforia.WireframeTrackableEventHandler
+252475002b814bcf9de77762beb73d70 Assembly-CSharp.dll:.UserEnent
+d8f10cfe02f2428e10225a5354f5e46b Assembly-CSharp.dll:.FrameQuality

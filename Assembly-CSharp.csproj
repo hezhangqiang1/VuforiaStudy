@@ -55,9 +55,11 @@
   <ItemGroup>
      <Compile Include="Assets\RFX\RFX_Scripts\Destroy.cs" />
      <Compile Include="Assets\RFX\RFX_Scripts\ParticleScaler.cs" />
+     <Compile Include="Assets\Scripts\FrameQuality.cs" />
      <Compile Include="Assets\Scripts\MyDefaultTrackableEventHandler.cs" />
      <Compile Include="Assets\Scripts\Player.cs" />
      <Compile Include="Assets\Scripts\Touch.cs" />
+     <Compile Include="Assets\Scripts\UserEnent.cs" />
      <Compile Include="Assets\Scripts\VirtualButtonEvevt.cs" />
      <None Include="Assets\Vuforia\Shaders\ColoredLines.shader" />
      <None Include="Assets\Vuforia\Shaders\CameraDiffuse.shader" />
